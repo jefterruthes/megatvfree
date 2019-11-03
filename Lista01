@@ -21,3 +21,12 @@ https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C9135%2C89c2e0b2c30c0
 http://edge-aws.aovivo.club/hls/s:78.47.3.135/bandnews_aee544ce_c9d5c0cb6aba74356a683cd8ec90505dd7e1d96c.m3u8
 #EXTINF:-1 tvg-ID="ae" tvg-name="A&E" group-title="Variedades e Músicas",A&E
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/aemundo_c28aca23_2c8fc755b314d45e1b3ee7964e5db8e284144b58/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="CAMERAS",COPACABANA
+https://videos3.earthcam.com/fecnetwork/6593.flv/chunklist_w1843052314.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="ESPORTES",ALL SPORTS
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?AndreOid
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="ESPORTES",ALL SPORTS
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="ESPORTES",ALL SPORTS
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="CANAIS TV",SBT SP
