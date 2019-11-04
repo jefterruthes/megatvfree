@@ -1,64 +1,70 @@
-#EXTM3U8
-
-#EXTINF:-1 group-title="Canais Abertos",Globo RJ
-http://samuraihd.com.br:80/jhonatan/1212jo/26890
-#EXTINF:-1 group-title="Canais Abertos",Band HD
+#EXTM3U
+#EXTINF:-1 group-title="LIVRES",BAND
 https://mj1b2xsspj.singularcdn.net.br/encompass/BandeirantesHD/master_Layer1.m3u8
-#EXTINF:-1 group-title="Canais Abertos",Record RJ
+#EXTINF:-1 group-title="LIVRES",GLOBO
+http://samuraihd.com.br:80/jhonatan/1212jo/26890
+#EXTINF:-1 group-title="LIVRES",RECORD
 https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2C91b5d3b827420a1672ca14495409c832%3Bbase64np%3BwRt34eUEhlq-Gp8%21/amlst%3AwRuP-PhPg1uhWhM4/chunklist_b2690048.m3u8?sts=st=1572756035~exp=1572762635~acl=/*~hmac=9bbd3503596990a868e3e8962a90477b8258e7f270ee051216e517b82732ae75
-#EXTINF:-1 group-title="Canais Abertos",SBT HD
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w952326798_b216000_sleng.m3u8
-#EXTINF:-1 group-title="Canais Abertos",RedeTV Opção 1
+#EXTINF:-1 group-title="LIVRES",REDETV
 https://evpp.mm.uol.com.br/redetv2/redetv2/chunklist_w1673041890.m3u8
-
-#EXTINF:-1 group-title="Variedades e Músicas",A&E
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/aemundo_c28aca23_2c8fc755b314d45e1b3ee7964e5db8e284144b58/playlist.m3u8
-
-#EXTINF:-1 group-title="Cameras",COPACABANA
-https://videos3.earthcam.com/fecnetwork/6593.flv/chunklist_w1843052314.m3u8
-
-#EXTINF:-1 group-title="Esportes",ALL SPORTS
+#EXTINF:-1 group-title="LIVRES",SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w952326798_b216000_sleng.m3u8
+#EXTINF:-1 group-title="LIVRES",
+#EXTINF:-1 group-title="ESPORTES",ALL SPORTS 1
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?AndreOid
-#EXTINF:-1 group-title="Esportes",ALL SPORTS
+#EXTINF:-1 group-title="ESPORTES",ALL SPORTS 2
 http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
-#EXTINF:-1 group-title="Esportes",ALL SPORTS
+#EXTINF:-1 group-title="ESPORTES",ALL SPORTS 3
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
-#EXTINF:-1 group-title="Esportes",SporTV 1 SD
+#EXTINF:-1 group-title="ESPORTES",COMBATE
+http://samuraihd.com.br:80/jhonatan/1212jo/26823
+#EXTINF:-1 group-title="ESPORTES",EI Plus
+http://samuraihd.com.br:80/jhonatan/1212jo/26792
+#EXTINF:-1 group-title="ESPORTES",ESPN
+http://samuraihd.com.br:80/jhonatan/1212jo/26850
+#EXTINF:-1 group-title="ESPORTES",ESPN 2
+http://samuraihd.com.br:80/jhonatan/1212jo/26852
+#EXTINF:-1 group-title="ESPORTES",ESPN BRASIL
+http://samuraihd.com.br:80/jhonatan/1212jo/26855
+http://canais.epizy.com/ESPNBRASIL.m3u8
+#EXTINF:-1 group-title="ESPORTES",ESPN EXTRA
+http://samuraihd.com.br:80/jhonatan/1212jo/26857
+#EXTINF:-1 group-title="ESPORTES",PREMIERE 1
+http://canais.epizy.com/PREMIERE1.m3u8
+#EXTINF:-1 group-title="ESPORTES",PREMIERE 2
+http://canais.epizy.com/PREMIERE2.m3u8
+#EXTINF:-1 group-title="ESPORTES",PREMIERE 3
+http://canais.epizy.com/PREMIERE3.m3u8
+#EXTINF:-1 group-title="ESPORTES",PREMIERE 4
+http://canais.epizy.com/PREMIERE4.m3u8
+#EXTINF:-1 group-title="ESPORTES",PREMIERE 5
+http://canais.epizy.com/PREMIERE5.m3u8
+#EXTINF:-1 group-title="ESPORTES",PREMIERE 6
+http://canais.epizy.com/PREMIERE6.m3u8
+#EXTINF:-1 group-title="ESPORTES",PREMIERE 7
+http://canais.epizy.com/PREMIERE7.m3u8
+#EXTINF:-1 group-title="ESPORTES",PREMIERE 8
+http://canais.epizy.com/PREMIERE8.m3u8
+#EXTINF:-1 group-title="ESPORTES",SPORTV 1 SD
 http://samuraihd.com.br:80/jhonatan/1212jo/27062
-#EXTINF:-1 group-title="Esportes",SporTV 2 SD
+#EXTINF:-1 group-title="ESPORTES",SPORTV 2 SD
 http://samuraihd.com.br:80/jhonatan/1212jo/27065
-#EXTINF:-1 group-title="Esportes",SporTV 3 SD
+#EXTINF:-1 group-title="ESPORTES",SPORTV 3 SD
 http://samuraihd.com.br:80/jhonatan/1212jo/27071
-#EXTINF:-1 group-title="Esportes",SporTV 1 FHD
+#EXTINF:-1 group-title="ESPORTES",SPORTV 1 FHD
 http://canais01.dedicadobrasil.com:8088/live/romero/123456/3.ts
-#EXTINF:-1 group-title="Esportes",SporTV 2 FHD
+#EXTINF:-1 group-title="ESPORTES",SPORTV 2 FHD
 http://canais01.dedicadobrasil.com:8088/live/romero/123456/4.ts
-#EXTINF:-1 group-title="Esportes",SporTV 3 FHD
+#EXTINF:-1 group-title="ESPORTES",SPORTV 3 FHD
 http://canais01.dedicadobrasil.com:8088/live/romero/123456/5.ts
 
-#EXTINF:-1 group-title="Filmes",De Pernas Pro Ar
-http://servidoresdedicado.net/looktvs/De%20Pernas%20Pro%20Ar%20Online%20Gr%c3%a1tis.mp4
-#EXTINF:-1 group-title="Filmes",De Pernas pro Ar 2
-http://servidoresdedicado.net/looktvs/De%20Pernas%20pro%20Ar%202%20Online%20Gr%c3%a1tis.mp4
-#EXTINF:-1 group-title="Filmes",Bumblebee
-http://servidoresdedicado.net/looktvs/Bumblebee%20Dublado.mp4
-#EXTINF:-1 group-title="Filmes",Deadpool 2
-http://servidoresdedicado.net/looktvs/Deadpool%202%20Dublado%20Online%20Gr%c3%a1tis.mp4
-#EXTINF:-1 group-title="Filmes",Era uma vez um Deadpool
-http://servidoresdedicado.net/looktvs/Era%20Uma%20Vez%20um%20Deadpool%20Dublado.mp4
-#EXTINF:-1 group-title="Filmes",Power Rangers 2017
-http://www.zepirata.org/looktvs/poweranger.mp4
-#EXTINF:-1 group-title="Filmes",Tal Pai Tal Filha
-http://servidoresdedicado.net/looktvs/Tal%20Pai,%20Tal%20Filha%20Dublado%20Online%20Gr%c3%a1tis.mp4
-#EXTINF:-1 group-title="Filmes",A Bela e a Fera Dublado
-http://www.zepirata.org/looktvs/PirataPlay%20-bela-fera.mp4
-#EXTINF:-1 group-title="Filmes",A Lenda De Beowulf
-http://servidoresdedicado.net/looktvs/A%20Lenda%20De%20Beowulf%20Dublado%20Online%20Gr%c3%a1tis.mp4
-#EXTINF:-1 group-title="Filmes",A Morte Do Superman
-http://servidoresdedicado.net/looktvs/A%20Morte%20Do%20Superman%20Dublado%20Online%20Gr%c3%a1tis.mp4
-#EXTINF:-1 group-title="Filmes",Avatar
+#EXTINF:-1 group-title="FILMES",Avatar
 http://servidoresdedicado.net/looktvs/Avatar%20Dublado%20Online%20Gr%c3%a1tis.mp4
-#EXTINF:-1 group-title="Filmes",Capita Marvel
-http://www.barretos.net/looktvs/Capit%c3%a3%20Marvel%20Dublado3.mp4
-#EXTINF:-1 group-title="Filmes",Bird Box
-http://www.barretos.net/looktvs/Caixa%20de%20P%c3%a1ssaros%20Dublado.mp4
+#EXTINF:-1 group-title="FILMES",De Pernas Pro Ar
+http://servidoresdedicado.net/looktvs/De%20Pernas%20Pro%20Ar%20Online%20Gr%c3%a1tis.mp4
+#EXTINF:-1 group-title="FILMES",De Pernas Pro Ar 2
+http://servidoresdedicado.net/looktvs/De%20Pernas%20pro%20Ar%202%20Online%20Gr%c3%a1tis.mp4
+#EXTINF:-1 group-title="FILMES",Bumblebee
+http://servidoresdedicado.net/looktvs/Bumblebee%20Dublado.mp4
+#EXTINF:-1 group-title="FILMES",DeadPool 2
+http://servidoresdedicado.net/looktvs/Deadpool%202%20Dublado%20Online%20Gr%c3%a1tis.mp4
