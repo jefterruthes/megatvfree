@@ -9,7 +9,6 @@ https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2C91b5d3b827420
 https://evpp.mm.uol.com.br/redetv2/redetv2/chunklist_w1673041890.m3u8
 #EXTINF:-1 group-title="LIVRES",SBT
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w952326798_b216000_sleng.m3u8
-#EXTINF:-1 group-title="LIVRES",
 #EXTINF:-1 group-title="ESPORTES",ALL SPORTS 1
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?AndreOid
 #EXTINF:-1 group-title="ESPORTES",ALL SPORTS 2
@@ -57,7 +56,6 @@ http://canais01.dedicadobrasil.com:8088/live/romero/123456/3.ts
 http://canais01.dedicadobrasil.com:8088/live/romero/123456/4.ts
 #EXTINF:-1 group-title="ESPORTES",SPORTV 3 FHD
 http://canais01.dedicadobrasil.com:8088/live/romero/123456/5.ts
-
 #EXTINF:-1 group-title="FILMES",Avatar
 http://servidoresdedicado.net/looktvs/Avatar%20Dublado%20Online%20Gr%c3%a1tis.mp4
 #EXTINF:-1 group-title="FILMES",De Pernas Pro Ar
