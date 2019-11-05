@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 group-title="LIVRES",BAND
-https://mj1b2xsspj.singularcdn.net.br/encompass/BandeirantesHD/master_Layer1.m3u8
+http://fsrv.me:80/k1usav5n/v5nusav5n/1896
 #EXTINF:-1 group-title="LIVRES",GLOBO
 http://samuraihd.com.br:80/jhonatan/1212jo/26890
 #EXTINF:-1 group-title="LIVRES",RECORD
-https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2C91b5d3b827420a1672ca14495409c832%3Bbase64np%3BwRt34eUEhlq-Gp8%21/amlst%3AwRuP-PhPg1uhWhM4/chunklist_b2690048.m3u8?sts=st=1572756035~exp=1572762635~acl=/*~hmac=9bbd3503596990a868e3e8962a90477b8258e7f270ee051216e517b82732ae75
+http://fsrv.me:80/k1usav5n/v5nusav5n/1671
 #EXTINF:-1 group-title="LIVRES",REDETV
-https://evpp.mm.uol.com.br/redetv2/redetv2/chunklist_w1673041890.m3u8
+http://fsrv.me:80/k1usav5n/v5nusav5n/1741
 #EXTINF:-1 group-title="LIVRES",SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w952326798_b216000_sleng.m3u8
+http://fsrv.me:80/k1usav5n/v5nusav5n/1738
 #EXTINF:-1 group-title="ESPORTES",ALL SPORTS 1
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?AndreOid
 #EXTINF:-1 group-title="ESPORTES",ALL SPORTS 2
@@ -18,16 +18,15 @@ http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 #EXTINF:-1 group-title="ESPORTES",COMBATE
 http://samuraihd.com.br:80/jhonatan/1212jo/26823
 #EXTINF:-1 group-title="ESPORTES",EI Plus
-http://samuraihd.com.br:80/jhonatan/1212jo/26792
+http://fsrv.me:80/k1usav5n/v5nusav5n/1644
 #EXTINF:-1 group-title="ESPORTES",ESPN
-http://samuraihd.com.br:80/jhonatan/1212jo/26850
+http://fsrv.me:80/k1usav5n/v5nusav5n/1848
 #EXTINF:-1 group-title="ESPORTES",ESPN 2
-http://samuraihd.com.br:80/jhonatan/1212jo/26852
+http://fsrv.me:80/k1usav5n/v5nusav5n/1847
 #EXTINF:-1 group-title="ESPORTES",ESPN BRASIL
-http://samuraihd.com.br:80/jhonatan/1212jo/26855
-http://canais.epizy.com/ESPNBRASIL.m3u8
+http://fsrv.me:80/k1usav5n/v5nusav5n/1845
 #EXTINF:-1 group-title="ESPORTES",ESPN EXTRA
-http://samuraihd.com.br:80/jhonatan/1212jo/26857
+http://fsrv.me:80/k1usav5n/v5nusav5n/1843
 #EXTINF:-1 group-title="ESPORTES",PREMIERE 1
 http://canais.epizy.com/PREMIERE1.m3u8
 #EXTINF:-1 group-title="ESPORTES",PREMIERE 2
@@ -50,13 +49,3 @@ http://fsrv.me:80/k1usav5n/v5nusav5n/1731
 http://fsrv.me:80/k1usav5n/v5nusav5n/1730
 #EXTINF:-1 group-title="ESPORTES",SPORTV 3 SD
 http://fsrv.me:80/k1usav5n/v5nusav5n/1728
-#EXTINF:-1 group-title="FILMES",Avatar
-http://servidoresdedicado.net/looktvs/Avatar%20Dublado%20Online%20Gr%c3%a1tis.mp4
-#EXTINF:-1 group-title="FILMES",De Pernas Pro Ar
-http://servidoresdedicado.net/looktvs/De%20Pernas%20Pro%20Ar%20Online%20Gr%c3%a1tis.mp4
-#EXTINF:-1 group-title="FILMES",De Pernas Pro Ar 2
-http://servidoresdedicado.net/looktvs/De%20Pernas%20pro%20Ar%202%20Online%20Gr%c3%a1tis.mp4
-#EXTINF:-1 group-title="FILMES",Bumblebee
-http://servidoresdedicado.net/looktvs/Bumblebee%20Dublado.mp4
-#EXTINF:-1 group-title="FILMES",DeadPool 2
-http://servidoresdedicado.net/looktvs/Deadpool%202%20Dublado%20Online%20Gr%c3%a1tis.mp4
