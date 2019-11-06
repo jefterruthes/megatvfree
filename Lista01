@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="LIVRES",BAND
-http://fsrv.me:80/k1usav5n/v5nusav5n/1896
+http://samuraihd.com.br:80/jhonatan/1212jo/26800
 #EXTINF:-1 group-title="LIVRES",GLOBO
 http://samuraihd.com.br:80/jhonatan/1212jo/26890
 #EXTINF:-1 group-title="LIVRES",RECORD
@@ -15,8 +15,10 @@ http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?AndreOid
 http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 group-title="ESPORTES",ALL SPORTS 3
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
-#EXTINF:-1 group-title="ESPORTES",COMBATE
+#EXTINF:-1 group-title="ESPORTES",COMBATE 1
 http://samuraihd.com.br:80/jhonatan/1212jo/26823
+#EXTINF:-1 group-title="ESPORTES",COMBATE 2
+http://samuraihd.com.br:80/jhonatan/1212jo/27172
 #EXTINF:-1 group-title="ESPORTES",EI Plus
 http://fsrv.me:80/k1usav5n/v5nusav5n/1644
 #EXTINF:-1 group-title="ESPORTES",ESPN
