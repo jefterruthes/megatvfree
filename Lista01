@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="" group-title="MEGATV" ,Contato: (99) 98439-1782
 http://0.0.0.0
 #EXTINF:-1 tvg-logo="https://cdn2.iconfinder.com/data/icons/toolbar-signs-4/512/repeat_refresh_arrow_media-512.png" group-title="MEGATV" ,Próxima atualização - 10/11/2019
-http://0.0.0.0
+http://0.0.0.1
 
 #EXTINF:-1 group-title="LIVRES",BAND
 https://mj1b2xsspj.singularcdn.net.br/encompass/BandeirantesHD/master_Layer1.m3u8
