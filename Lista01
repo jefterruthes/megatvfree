@@ -4,6 +4,17 @@ http://0.0.0.0
 #EXTINF:-1 tvg-logo="https://cdn2.iconfinder.com/data/icons/toolbar-signs-4/512/repeat_refresh_arrow_media-512.png" group-title="MEGATV" ,Próxima atualização - 10/11/2019
 http://0.0.0.1
 
+#EXTINF:-1 tvg-logo="http://marcondesbrito.com.br/wp-content/uploads/2018/07/captura-de-tela-2018-07-05-as-21-55-59-300x249.png" group-title="BRASILEIRÃO", JOGO 01
+#EXTINF:-1 tvg-logo="http://marcondesbrito.com.br/wp-content/uploads/2018/07/captura-de-tela-2018-07-05-as-21-55-59-300x249.png" group-title="BRASILEIRÃO", JOGO 02
+#EXTINF:-1 tvg-logo="http://marcondesbrito.com.br/wp-content/uploads/2018/07/captura-de-tela-2018-07-05-as-21-55-59-300x249.png" group-title="BRASILEIRÃO", JOGO 03
+#EXTINF:-1 tvg-logo="http://marcondesbrito.com.br/wp-content/uploads/2018/07/captura-de-tela-2018-07-05-as-21-55-59-300x249.png" group-title="BRASILEIRÃO", JOGO 04
+#EXTINF:-1 tvg-logo="http://marcondesbrito.com.br/wp-content/uploads/2018/07/captura-de-tela-2018-07-05-as-21-55-59-300x249.png" group-title="BRASILEIRÃO", JOGO 05
+#EXTINF:-1 tvg-logo="http://marcondesbrito.com.br/wp-content/uploads/2018/07/captura-de-tela-2018-07-05-as-21-55-59-300x249.png" group-title="BRASILEIRÃO", JOGO 06
+#EXTINF:-1 tvg-logo="http://marcondesbrito.com.br/wp-content/uploads/2018/07/captura-de-tela-2018-07-05-as-21-55-59-300x249.png" group-title="BRASILEIRÃO", JOGO 07
+#EXTINF:-1 tvg-logo="http://marcondesbrito.com.br/wp-content/uploads/2018/07/captura-de-tela-2018-07-05-as-21-55-59-300x249.png" group-title="BRASILEIRÃO", JOGO 08
+#EXTINF:-1 tvg-logo="http://marcondesbrito.com.br/wp-content/uploads/2018/07/captura-de-tela-2018-07-05-as-21-55-59-300x249.png" group-title="BRASILEIRÃO", JOGO 09
+#EXTINF:-1 tvg-logo="http://marcondesbrito.com.br/wp-content/uploads/2018/07/captura-de-tela-2018-07-05-as-21-55-59-300x249.png" group-title="BRASILEIRÃO", JOGO 10
+
 #EXTINF:-1 group-title="LIVRES",BAND
 https://mj1b2xsspj.singularcdn.net.br/encompass/BandeirantesHD/master_Layer1.m3u8
 #EXTINF:-1 group-title="LIVRES",GLOBO
