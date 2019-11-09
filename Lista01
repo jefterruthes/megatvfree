@@ -29,15 +29,15 @@ http://canais.epizy.com/ESPNBRASIL.m3u8
 #EXTINF:-1 group-title="ESPORTES",ESPN EXTRA
 http://samuraihd.com.br:80/jhonatan/1212jo/26857
 #EXTINF:-1 group-title="ESPORTES",PREMIERE 1
-http://canais.epizy.com/PREMIERE1.m3u8
+http://canais01.dedicadobrasil.com:8088/live/romero/123456/886.ts
 #EXTINF:-1 group-title="ESPORTES",PREMIERE 2
-http://canais.epizy.com/PREMIERE2.m3u8
+http://canais01.dedicadobrasil.com:8088/live/rOiz2ioYet/EHNIhOe8lI/879.ts
 #EXTINF:-1 group-title="ESPORTES",PREMIERE 3
-http://canais.epizy.com/PREMIERE3.m3u8
+http://canais01.dedicadobrasil.com:8088/live/MgjHnns8hj/yuIOSTnatO/880.ts
 #EXTINF:-1 group-title="ESPORTES",PREMIERE 4
-http://canais.epizy.com/PREMIERE4.m3u8
+http://canais01.dedicadobrasil.com:8088/live/GY9vZUkDO7/4A9ppHEObK/881.ts
 #EXTINF:-1 group-title="ESPORTES",PREMIERE 5
-http://canais.epizy.com/PREMIERE5.m3u8
+http://canais01.dedicadobrasil.com:8088/live/zEavhM2MMx/RMVljsHf0F/882.ts
 #EXTINF:-1 group-title="ESPORTES",PREMIERE 6
 http://canais.epizy.com/PREMIERE6.m3u8
 #EXTINF:-1 group-title="ESPORTES",PREMIERE 7
@@ -45,11 +45,11 @@ http://canais.epizy.com/PREMIERE7.m3u8
 #EXTINF:-1 group-title="ESPORTES",PREMIERE 8
 http://canais.epizy.com/PREMIERE8.m3u8
 #EXTINF:-1 group-title="ESPORTES",SPORTV 1 SD
-http://samuraihd.com.br:80/jhonatan/1212jo/27062
+http://canais01.dedicadobrasil.com:8088/live/romero/123456/3.ts
 #EXTINF:-1 group-title="ESPORTES",SPORTV 2 SD
-http://samuraihd.com.br:80/jhonatan/1212jo/27065
+http://canais01.dedicadobrasil.com:8088/live/GY9vZUkDO7/4A9ppHEObK/4.ts
 #EXTINF:-1 group-title="ESPORTES",SPORTV 3 SD
-http://samuraihd.com.br:80/jhonatan/1212jo/27071
+http://canais01.dedicadobrasil.com:8088/live/rOiz2ioYet/EHNIhOe8lI/5.ts
 
 #EXTINF:-1 group-title="FILMES E SÉRIES",Fox Premium 1
 http://assistaiptvplay.com/live/5516997705368/997705368/54199.m3u8
