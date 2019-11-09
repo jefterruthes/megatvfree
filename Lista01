@@ -59,6 +59,22 @@ http://assistaiptvplay.com/live/5516997705368/997705368/54197.m3u8
 http://assistaiptvplay.com/live/5516997705368/997705368/43350.m3u8
 #EXTINF:-1 group-title="FILMES E SÉRIES",TNT 2
 http://assistaiptvplay.com/live/5516997705368/997705368/43145.m3u8
+#EXTINF:-1 group-title="FILMES E SERIES",Cine+
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 group-title="FILMES E SERIES",Studio Universal
+http://canais01.dedicadobrasil.com:8088/live/GY9vZUkDO7/4A9ppHEObK/912.ts
+#EXTINF:-1 group-title="FILMES E SERIES",Universal Channel
+http://canais01.dedicadobrasil.com:8088/live/GY9vZUkDO7/4A9ppHEObK/925.ts
+#EXTINF:-1 group-title="FILMES E SERIES",Warner Channel
+http://canais01.dedicadobrasil.com:8088/live/rOiz2ioYet/EHNIhOe8lI/926.ts
+#EXTINF:-1 group-title="FILMES E SERIES",PARAMOUNT CHANNEL
+http://canais01.dedicadobrasil.com:8088/live/AUUiRTy0ad/2Hpby9qSNS/952.ts
+#EXTINF:-1 group-title="FILMES E SERIES",Telecine Touch
+http://canais01.dedicadobrasil.com:8088/live/romero/123456/11.ts
+#EXTINF:-1 group-title="FILMES E SERIES",Telecine Premium
+http://canais01.dedicadobrasil.com:8088/live/AUUiRTy0ad/2Hpby9qSNS/10.ts
+#EXTINF:-1 group-title="FILMES E SERIES",Telecine Pipoca
+http://canais01.dedicadobrasil.com:8088/live/AUUiRTy0ad/2Hpby9qSNS/9.ts
 
 #EXTINF:-1 group-title="FILMES",Avatar
 http://servidoresdedicado.net/looktvs/Avatar%20Dublado%20Online%20Gr%c3%a1tis.mp4
