@@ -1,31 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imagepng.org/wp-content/uploads/2017/08/WhatsApp-icone.png" group-title="MEGATV" ,Contato: (99) 98439-1782
 http://0.0.0.0
-#EXTINF:-1 tvg-logo="https://cdn2.iconfinder.com/data/icons/toolbar-signs-4/512/repeat_refresh_arrow_media-512.png" group-title="MEGATV" ,Próxima atualização - 10/11/2019
+#EXTINF:-1 tvg-logo="https://cdn2.iconfinder.com/data/icons/toolbar-signs-4/512/repeat_refresh_arrow_media-512.png" group-title="MEGATV" ,Atualização 10/11/2019
 http://0.0.0.1
 
-#EXTINF:-1 tvg-logo="http://marcondesbrito.com.br/wp-content/uploads/2018/07/captura-de-tela-2018-07-05-as-21-55-59-300x249.png" group-title="BRASILEIRÃO", JOGO 01
-https://logodownload.org/wp-content/uploads/2018/10/copa-libertadores-logo.png
-#EXTINF:-1 tvg-logo="http://marcondesbrito.com.br/wp-content/uploads/2018/07/captura-de-tela-2018-07-05-as-21-55-59-300x249.png" group-title="BRASILEIRÃO", JOGO 02
-https://logodownload.org/wp-content/uploads/2018/10/copa-libertadores-logo.png
-#EXTINF:-1 tvg-logo="http://marcondesbrito.com.br/wp-content/uploads/2018/07/captura-de-tela-2018-07-05-as-21-55-59-300x249.png" group-title="BRASILEIRÃO", JOGO 03
-https://logodownload.org/wp-content/uploads/2018/10/copa-libertadores-logo.png
-#EXTINF:-1 tvg-logo="http://marcondesbrito.com.br/wp-content/uploads/2018/07/captura-de-tela-2018-07-05-as-21-55-59-300x249.png" group-title="BRASILEIRÃO", JOGO 04
-https://logodownload.org/wp-content/uploads/2018/10/copa-libertadores-logo.png
-#EXTINF:-1 tvg-logo="http://marcondesbrito.com.br/wp-content/uploads/2018/07/captura-de-tela-2018-07-05-as-21-55-59-300x249.png" group-title="BRASILEIRÃO", JOGO 05
-https://logodownload.org/wp-content/uploads/2018/10/copa-libertadores-logo.png
-#EXTINF:-1 tvg-logo="http://marcondesbrito.com.br/wp-content/uploads/2018/07/captura-de-tela-2018-07-05-as-21-55-59-300x249.png" group-title="BRASILEIRÃO", JOGO 06
-https://logodownload.org/wp-content/uploads/2018/10/copa-libertadores-logo.png
-#EXTINF:-1 tvg-logo="http://marcondesbrito.com.br/wp-content/uploads/2018/07/captura-de-tela-2018-07-05-as-21-55-59-300x249.png" group-title="BRASILEIRÃO", JOGO 07
-https://logodownload.org/wp-content/uploads/2018/10/copa-libertadores-logo.png
-#EXTINF:-1 tvg-logo="http://marcondesbrito.com.br/wp-content/uploads/2018/07/captura-de-tela-2018-07-05-as-21-55-59-300x249.png" group-title="BRASILEIRÃO", JOGO 08
-https://logodownload.org/wp-content/uploads/2018/10/copa-libertadores-logo.png
-#EXTINF:-1 tvg-logo="http://marcondesbrito.com.br/wp-content/uploads/2018/07/captura-de-tela-2018-07-05-as-21-55-59-300x249.png" group-title="BRASILEIRÃO", JOGO 09
-https://logodownload.org/wp-content/uploads/2018/10/copa-libertadores-logo.png
-#EXTINF:-1 tvg-logo="http://marcondesbrito.com.br/wp-content/uploads/2018/07/captura-de-tela-2018-07-05-as-21-55-59-300x249.png" group-title="BRASILEIRÃO", JOGO 10
-https://logodownload.org/wp-content/uploads/2018/10/copa-libertadores-logo.png
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/copa-libertadores-logo.png" group-title="LIBERTADORES",FINAL - RIVER x FLAMENGO
-https://robertoassaf.com.br/site/wp-content/uploads/2018/05/riverxfla.png
+http://megatvcanais.epizy.com/libertadores
 
 #EXTINF:-1 group-title="LIVRES",BAND
 https://mj1b2xsspj.singularcdn.net.br/encompass/BandeirantesHD/master_Layer1.m3u8
@@ -79,13 +59,13 @@ http://canais01.dedicadobrasil.com:8088/live/zEavhM2MMx/RMVljsHf0F/4.ts
 #EXTINF:-1 group-title="ESPORTES",SPORTV 3 SD
 http://canais01.dedicadobrasil.com:8088/live/zEavhM2MMx/RMVljsHf0F/5.ts
 
-#EXTINF:-1 group-title="FILMES E SÉRIES",Fox Premium 1
+#EXTINF:-1 group-title="FILMES E SERIES",Fox Premium 1
 http://assistaiptvplay.com/live/5516997705368/997705368/54199.m3u8
-#EXTINF:-1 group-title="FILMES E SÉRIES",Fox Premium 2
+#EXTINF:-1 group-title="FILMES E SERIES",Fox Premium 2
 http://assistaiptvplay.com/live/5516997705368/997705368/54197.m3u8
-#EXTINF:-1 group-title="FILMES E SÉRIES",TNT 1
+#EXTINF:-1 group-title="FILMES E SERIES",TNT 1
 http://assistaiptvplay.com/live/5516997705368/997705368/43350.m3u8
-#EXTINF:-1 group-title="FILMES E SÉRIES",TNT 2
+#EXTINF:-1 group-title="FILMES E SERIES",TNT 2
 http://assistaiptvplay.com/live/5516997705368/997705368/43145.m3u8
 #EXTINF:-1 group-title="FILMES E SERIES",Cine+
 http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
