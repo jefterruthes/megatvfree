@@ -25,8 +25,8 @@ http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 #EXTINF:-1 group-title="ESPORTES",COMBATE
 http://lista.digitalgroup.me:80/Irineu/123456/22442
-#EXTINF:-1 group-title="ESPORTES",EI Plus
-http://samuraihd.com.br:80/jhonatan/1212jo/26792
+#EXTINF:-1 group-title="ESPORTES",Ei
+https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_800.m3u8?VRQtpAFXeNzNFtld2tf9yeN1vyU5-lJGp-xRb4rmThesW92zv__GN1EIRJsFcos96xKG&dnt=true&access_token=OZo0Cf114fBAQJMd9p7wp9jvtlEvCwwqMmgMv2s6QgtpdAxjqgLc9CFw0NwxaYM5XbNKoVgdvnC&ref=https://eiplus.com.br/canal/47/no-ar-com-andre-henning/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https&pz=BR
 #EXTINF:-1 group-title="ESPORTES",ESPN
 http://samuraihd.com.br:80/jhonatan/1212jo/26850
 #EXTINF:-1 group-title="ESPORTES",ESPN 2
