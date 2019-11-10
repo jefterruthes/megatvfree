@@ -4,7 +4,7 @@ http://0.0.0.0
 #EXTINF:-1 tvg-logo="https://cdn2.iconfinder.com/data/icons/toolbar-signs-4/512/repeat_refresh_arrow_media-512.png" group-title="MEGATV" ,Atualização 10/11/2019
 http://0.0.0.1
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/copa-libertadores-logo.png" group-title="LIBERTADORES",FINAL - RIVER x FLAMENGO
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/copa-libertadores-logo.png" group-title="LIBERTADORES",FINAL - RIVER x FLAMENGO 23/11
 http://megatvcanais.epizy.com/libertadores
 
 #EXTINF:-1 group-title="LIVRES",BAND
@@ -24,7 +24,7 @@ http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 group-title="ESPORTES",ALL SPORTS 3
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 #EXTINF:-1 group-title="ESPORTES",COMBATE
-http://lista.digitalgroup.me:80/Irineu/123456/22442
+http://edge-aws.aovivo.club/hls/s:78.47.3.135/combate_ac3478d6_93abb5ddfe5716a723ca18f21e5852014a7f0075.m3u8
 #EXTINF:-1 group-title="ESPORTES",Ei
 https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_800.m3u8?VRQtpAFXeNzNFtld2tf9yeN1vyU5-lJGp-xRb4rmThesW92zv__GN1EIRJsFcos96xKG&dnt=true&access_token=OZo0Cf114fBAQJMd9p7wp9jvtlEvCwwqMmgMv2s6QgtpdAxjqgLc9CFw0NwxaYM5XbNKoVgdvnC&ref=https://eiplus.com.br/canal/47/no-ar-com-andre-henning/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https&pz=BR
 #EXTINF:-1 group-title="ESPORTES",ESPN
@@ -37,9 +37,9 @@ http://canais.epizy.com/ESPNBRASIL.m3u8
 #EXTINF:-1 group-title="ESPORTES",ESPN EXTRA
 http://samuraihd.com.br:80/jhonatan/1212jo/26857
 #EXTINF:-1 group-title="ESPORTES",PREMIERE 1
-http://canais01.dedicadobrasil.com:8088/live/romero/123456/886.ts
+http://192.99.174.110:8084/premiereclubes
 #EXTINF:-1 group-title="ESPORTES",PREMIERE 2
-http://canais01.dedicadobrasil.com:8088/live/rOiz2ioYet/EHNIhOe8lI/879.ts
+http://192.99.174.110:2001/pm
 #EXTINF:-1 group-title="ESPORTES",PREMIERE 3
 http://canais01.dedicadobrasil.com:8088/live/MgjHnns8hj/yuIOSTnatO/880.ts
 #EXTINF:-1 group-title="ESPORTES",PREMIERE 4
@@ -55,11 +55,11 @@ http://canais01.dedicadobrasil.com:8088/live/zEavhM2MMx/RMVljsHf0F/885.ts
 #EXTINF:-1 group-title="ESPORTES",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="ESPORTES",SPORTV 1 SD
-http://canais01.dedicadobrasil.com:8088/live/zEavhM2MMx/RMVljsHf0F/3.ts
+http://192.99.174.110:8085/sportv
 #EXTINF:-1 group-title="ESPORTES",SPORTV 2 SD
-http://canais01.dedicadobrasil.com:8088/live/zEavhM2MMx/RMVljsHf0F/4.ts
+http://192.99.174.110:8086/sportv2
 #EXTINF:-1 group-title="ESPORTES",SPORTV 3 SD
-http://canais01.dedicadobrasil.com:8088/live/zEavhM2MMx/RMVljsHf0F/5.ts
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/sportv3_e1a864f0_aaedafbb7c570183d507996d4cd18bf290ba8a6e.m3u8
 #EXTINF:-1 group-title="ESPORTES",ABU DHABI SPORTS
 http://adtv.ercdn.net/adsport1/adsport1_360p.m3u8
 
