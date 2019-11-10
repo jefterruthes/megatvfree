@@ -110,8 +110,8 @@ http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8?EDSONSOUS
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8?EDSONSOUSALIST
 #EXTINF:-1 group-title="X-ADULTOS",X-BRAZZERS
 http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/910/index.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="X-ADULTOS",X-Playboy HD
-http://topclientehd.ddns.net:8080/live/ferreira/ferreira/7208.ts
+#EXTINF:-1 group-title="X-ADULTOS",X-VISIT-X
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8?EDSONSOUSALIST
 #EXTINF:-1 group-title="X-ADULTOS",X-Hentay 01
 http://topclientehd.ddns.net:8080/movie/ferreira/ferreira/7423.MP4
 #EXTINF:-1 group-title="X-ADULTOS",X-Hentay 02
