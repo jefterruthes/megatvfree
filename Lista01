@@ -85,7 +85,7 @@ http://canais01.dedicadobrasil.com:8088/live/romero/123456/11.ts
 http://canais01.dedicadobrasil.com:8088/live/AUUiRTy0ad/2Hpby9qSNS/10.ts
 #EXTINF:-1 group-title="FILMES E SERIES",Telecine Pipoca
 http://canais01.dedicadobrasil.com:8088/live/AUUiRTy0ad/2Hpby9qSNS/9.ts
-#EXTINF:-1 group-title="FILMES E SERIES",
+#EXTINF:-1 group-title="FILMES E SERIES",CINE SKY
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
 
 #EXTINF:-1 group-title="FILMES",Avatar
