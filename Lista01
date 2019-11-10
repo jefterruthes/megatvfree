@@ -52,6 +52,8 @@ http://canais01.dedicadobrasil.com:8088/live/zEavhM2MMx/RMVljsHf0F/883.ts
 http://canais01.dedicadobrasil.com:8088/live/zEavhM2MMx/RMVljsHf0F/884.ts
 #EXTINF:-1 group-title="ESPORTES",PREMIERE 8
 http://canais01.dedicadobrasil.com:8088/live/zEavhM2MMx/RMVljsHf0F/885.ts
+#EXTINF:-1 group-title="ESPORTES",Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="ESPORTES",SPORTV 1 SD
 http://canais01.dedicadobrasil.com:8088/live/zEavhM2MMx/RMVljsHf0F/3.ts
 #EXTINF:-1 group-title="ESPORTES",SPORTV 2 SD
