@@ -37,9 +37,9 @@ http://canais.epizy.com/ESPNBRASIL.m3u8
 #EXTINF:-1 group-title="ESPORTES",ESPN EXTRA
 http://samuraihd.com.br:80/jhonatan/1212jo/26857
 #EXTINF:-1 group-title="ESPORTES",PREMIERE 1
-http://192.99.174.110:8084/premiereclubes
+http://canais01.dedicadobrasil.com:8088/live/MgjHnns8hj/yuIOSTnatO/878.ts
 #EXTINF:-1 group-title="ESPORTES",PREMIERE 2
-http://192.99.174.110:2001/pm
+http://canais01.dedicadobrasil.com:8088/live/MgjHnns8hj/yuIOSTnatO/879.ts
 #EXTINF:-1 group-title="ESPORTES",PREMIERE 3
 http://canais01.dedicadobrasil.com:8088/live/MgjHnns8hj/yuIOSTnatO/880.ts
 #EXTINF:-1 group-title="ESPORTES",PREMIERE 4
