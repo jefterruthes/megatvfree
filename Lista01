@@ -24,7 +24,7 @@ http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 group-title="ESPORTES",ALL SPORTS 3
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 #EXTINF:-1 group-title="ESPORTES",COMBATE
-http://edge-aws.aovivo.club/hls/s:78.47.3.135/combate_ac3478d6_93abb5ddfe5716a723ca18f21e5852014a7f0075.m3u8
+
 #EXTINF:-1 group-title="ESPORTES",Ei
 https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_800.m3u8?VRQtpAFXeNzNFtld2tf9yeN1vyU5-lJGp-xRb4rmThesW92zv__GN1EIRJsFcos96xKG&dnt=true&access_token=OZo0Cf114fBAQJMd9p7wp9jvtlEvCwwqMmgMv2s6QgtpdAxjqgLc9CFw0NwxaYM5XbNKoVgdvnC&ref=https://eiplus.com.br/canal/47/no-ar-com-andre-henning/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https&pz=BR
 #EXTINF:-1 group-title="ESPORTES",ESPN
@@ -33,11 +33,10 @@ http://samuraihd.com.br:80/jhonatan/1212jo/26850
 http://samuraihd.com.br:80/jhonatan/1212jo/26852
 #EXTINF:-1 group-title="ESPORTES",ESPN BRASIL
 http://samuraihd.com.br:80/jhonatan/1212jo/26855
-http://canais.epizy.com/ESPNBRASIL.m3u8
 #EXTINF:-1 group-title="ESPORTES",ESPN EXTRA
 http://samuraihd.com.br:80/jhonatan/1212jo/26857
 #EXTINF:-1 group-title="ESPORTES",PREMIERE 1
-http://canais01.dedicadobrasil.com:8088/live/MgjHnns8hj/yuIOSTnatO/878.ts
+
 #EXTINF:-1 group-title="ESPORTES",PREMIERE 2
 http://canais01.dedicadobrasil.com:8088/live/MgjHnns8hj/yuIOSTnatO/879.ts
 #EXTINF:-1 group-title="ESPORTES",PREMIERE 3
@@ -47,21 +46,21 @@ http://canais01.dedicadobrasil.com:8088/live/GY9vZUkDO7/4A9ppHEObK/881.ts
 #EXTINF:-1 group-title="ESPORTES",PREMIERE 5
 http://canais01.dedicadobrasil.com:8088/live/zEavhM2MMx/RMVljsHf0F/882.ts
 #EXTINF:-1 group-title="ESPORTES",PREMIERE 6
-http://canais01.dedicadobrasil.com:8088/live/zEavhM2MMx/RMVljsHf0F/883.ts
+
 #EXTINF:-1 group-title="ESPORTES",PREMIERE 7
-http://canais01.dedicadobrasil.com:8088/live/zEavhM2MMx/RMVljsHf0F/884.ts
+
 #EXTINF:-1 group-title="ESPORTES",PREMIERE 8
-http://canais01.dedicadobrasil.com:8088/live/zEavhM2MMx/RMVljsHf0F/885.ts
+
 #EXTINF:-1 group-title="ESPORTES",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="ESPORTES",REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 #EXTINF:-1 group-title="ESPORTES",SPORTV 1 SD
-http://192.99.174.110:8085/sportv
+
 #EXTINF:-1 group-title="ESPORTES",SPORTV 2 SD
-http://192.99.174.110:8086/sportv2
+
 #EXTINF:-1 group-title="ESPORTES",SPORTV 3 SD
-http://edge-aws.aovivo.club/hls/s:78.46.240.155/sportv3_e1a864f0_aaedafbb7c570183d507996d4cd18bf290ba8a6e.m3u8
+
 #EXTINF:-1 group-title="ESPORTES",ABU DHABI SPORTS
 http://adtv.ercdn.net/adsport1/adsport1_360p.m3u8
 #EXTINF:-1 group-title="KID`S",Team Blue
@@ -106,36 +105,10 @@ http://servidoresdedicado.net/looktvs/De%20Pernas%20pro%20Ar%202%20Online%20Gr%c
 http://servidoresdedicado.net/looktvs/Bumblebee%20Dublado.mp4
 #EXTINF:-1 group-title="FILMES",DeadPool 2
 http://servidoresdedicado.net/looktvs/Deadpool%202%20Dublado%20Online%20Gr%c3%a1tis.mp4
-#EXTINF:-1 group-title="FILMES", Superação: O milagre da fé
-http://lhmtv.gq/gd/1IkxrGI2s_RraDzzOBNRzIOF3q_gZRmND?key=AIzaSyAS7uVCFT3FbgPJWvWjwNEZ-7cuTQF2huY&alt=media
 
-#EXTINF:-1 group-title="X-ADULTOS",X-MIAMI TV
-http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8?EDSONSOUSALIST
 #EXTINF:-1 group-title="X-ADULTOS",X-JASMIM TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8?EDSONSOUSALIST
 #EXTINF:-1 group-title="X-ADULTOS",X-BRAZZERS
 http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/910/index.m3u8?EDSONSOUSALIST
 #EXTINF:-1 group-title="X-ADULTOS",X-VISIT-X
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8?EDSONSOUSALIST
-#EXTINF:-1 group-title="X-ADULTOS",X-Hentay 01
-http://topclientehd.ddns.net:8080/movie/ferreira/ferreira/7423.MP4
-#EXTINF:-1 group-title="X-ADULTOS",X-Hentay 02
-http://topclientehd.ddns.net:8080/movie/ferreira/ferreira/7424.MP4
-#EXTINF:-1 group-title="X-ADULTOS",X-69 Tons de pica 01
-http://topclientehd.ddns.net:8080/movie/ferreira/ferreira/7449.MP4
-#EXTINF:-1 group-title="X-ADULTOS",X-69 Tons de pica 02
-http://topclientehd.ddns.net:8080/movie/ferreira/ferreira/7450.MP4
-#EXTINF:-1 group-title="X-ADULTOS",X-Cu de Bebada 01
-http://topclientehd.ddns.net:8080/movie/ferreira/ferreira/7483.MP4
-#EXTINF:-1 group-title="X-ADULTOS",X-Cu de Bebada 02
-http://topclientehd.ddns.net:8080/movie/ferreira/ferreira/7484.MP4
-#EXTINF:-1 group-title="X-ADULTOS",X-Cu de Bebada 03 
-http://topclientehd.ddns.net:8080/movie/ferreira/ferreira/7485.MP4
-
-
-
-
-
-
-
-
