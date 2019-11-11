@@ -63,6 +63,11 @@ http://edge-aws.aovivo.club/hls/s:78.46.240.155/sportv3_e1a864f0_aaedafbb7c57018
 #EXTINF:-1 group-title="ESPORTES",ABU DHABI SPORTS
 http://adtv.ercdn.net/adsport1/adsport1_360p.m3u8
 
+#EXTINF:-1 group-title="KID`S",Team Blue
+http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8
+#EXTINF:-1 group-title="KID`S",Gospel Cartoon
+http://stmv1.srvstm.com:1935/gospelcartoon/gospelcartoon/playlist.m3u8
+
 #EXTINF:-1 group-title="FILMES E SERIES",Fox Premium 1
 http://assistaiptvplay.com/live/5516997705368/997705368/54199.m3u8
 #EXTINF:-1 group-title="FILMES E SERIES",Fox Premium 2
