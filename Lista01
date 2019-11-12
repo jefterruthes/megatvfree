@@ -41,7 +41,7 @@ https://eiplus.com.br/canal/47/no-ar-com-andre-henning/&es=vrzn-ei-ee.cdn.mdstrm
 #EXTINF:-1 group-title="ESPORTES",ESPN EXTRA
 
 #EXTINF:-1 group-title="ESPORTES",PREMIERE 1
-
+http://62.210.192.35:8081/loadbalance/pfc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxOSA1OjA3OjAwIFBNJmhhc2hfdmFsdWU9eGNVS0JrOEhac2lsRjgzbW5UR0FEdz09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 group-title="ESPORTES",PREMIERE 2
 http://canais01.dedicadobrasil.com:8088/live/MgjHnns8hj/yuIOSTnatO/879.ts
 #EXTINF:-1 group-title="ESPORTES",PREMIERE 3
