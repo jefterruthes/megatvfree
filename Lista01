@@ -95,6 +95,9 @@ http://canais01.dedicadobrasil.com:8088/live/AUUiRTy0ad/2Hpby9qSNS/9.ts
 #EXTINF:-1 group-title="FILMES E SERIES",CINE SKY
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
 
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",Animal Planet
+http://195.154.161.57:8081/loadbalance/animal/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxOSA0OjUzOjQzIFBNJmhhc2hfdmFsdWU9T29GU3dXRUxVUmtkTjJld2lRN3RhQT09JnZhbGlkbWludXRlcz0yMA==
+
 #EXTINF:-1 group-title="FILMES",Avatar
 http://servidoresdedicado.net/looktvs/Avatar%20Dublado%20Online%20Gr%c3%a1tis.mp4
 #EXTINF:-1 group-title="FILMES",De Pernas Pro Ar
