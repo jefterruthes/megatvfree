@@ -10,9 +10,9 @@ http://megatvcanais.epizy.com/libertadores
 #EXTINF:-1 group-title="LIVRES",BAND
 https://mj1b2xsspj.singularcdn.net.br/encompass/BandeirantesHD/master_Layer1.m3u8
 #EXTINF:-1 group-title="LIVRES",GLOBO
-http://192.99.174.110:8081/globo
+http://qqtv.nl:8080/bada/123456/26317
 #EXTINF:-1 group-title="LIVRES",RECORD
-http://192.99.174.110:8083/record
+http://qqtv.nl:8080/bada/123456/165664
 #EXTINF:-1 group-title="LIVRES",REDETV
 https://evpp.mm.uol.com.br/redetv2/redetv2/chunklist_w1673041890.m3u8
 #EXTINF:-1 group-title="LIVRES",SBT
@@ -25,9 +25,9 @@ http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 group-title="ESPORTES",ALL SPORTS 3
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 #EXTINF:-1 group-title="ESPORTES",COMBATE
-http://192.99.174.110:8087/combate
+http://qqtv.nl:8080/bada/123456/26308
 #EXTINF:-1 group-title="ESPORTES",EI
-
+http://qqtv.nl:8080/bada/123456/26312
 #EXTINF:-1 group-title="ESPORTES",ESPN
 
 #EXTINF:-1 group-title="ESPORTES",ESPN 2
@@ -37,7 +37,7 @@ http://192.99.174.110:8087/combate
 #EXTINF:-1 group-title="ESPORTES",ESPN EXTRA
 
 #EXTINF:-1 group-title="ESPORTES",PREMIERE 1
-
+http://qqtv.nl:8080/bada/123456/26338
 #EXTINF:-1 group-title="ESPORTES",PREMIERE 2
 http://canais01.dedicadobrasil.com:8088/live/MgjHnns8hj/yuIOSTnatO/879.ts
 #EXTINF:-1 group-title="ESPORTES",PREMIERE 3
@@ -57,7 +57,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="ESPORTES",REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 #EXTINF:-1 group-title="ESPORTES",SPORTV 1 SD
-
+http://qqtv.nl:8080/bada/123456/26385
 #EXTINF:-1 group-title="ESPORTES",SPORTV 2 SD
 
 #EXTINF:-1 group-title="ESPORTES",SPORTV 3 SD
