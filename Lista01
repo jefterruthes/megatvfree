@@ -26,7 +26,7 @@ http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 #EXTINF:-1 group-title="ESPORTES",COMBATE
 http://192.99.174.110:8087/combate
-#EXTINF:-1 group-title="ESPORTES",Ei A
+#EXTINF:-1 group-title="ESPORTES",EI
 
 #EXTINF:-1 group-title="ESPORTES",ESPN
 
