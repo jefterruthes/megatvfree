@@ -10,9 +10,9 @@ http://megatvcanais.epizy.com/libertadores
 #EXTINF:-1 group-title="LIVRES",BAND
 https://mj1b2xsspj.singularcdn.net.br/encompass/BandeirantesHD/master_Layer1.m3u8
 #EXTINF:-1 group-title="LIVRES",GLOBO
-http://qqtv.nl:8080/bada/123456/26317
+http://192.99.174.110:8081/globo
 #EXTINF:-1 group-title="LIVRES",RECORD
-http://qqtv.nl:8080/bada/123456/165664
+http://192.99.174.110:8083/record
 #EXTINF:-1 group-title="LIVRES",REDETV
 https://evpp.mm.uol.com.br/redetv2/redetv2/chunklist_w1673041890.m3u8
 #EXTINF:-1 group-title="LIVRES",SBT
@@ -25,9 +25,9 @@ http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 group-title="ESPORTES",ALL SPORTS 3
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 #EXTINF:-1 group-title="ESPORTES",COMBATE
-http://qqtv.nl:8080/bada/123456/26308
+http://192.99.174.110:8087/combate
 #EXTINF:-1 group-title="ESPORTES",EI
-http://qqtv.nl:8080/bada/123456/26312
+
 #EXTINF:-1 group-title="ESPORTES",ESPN
 
 #EXTINF:-1 group-title="ESPORTES",ESPN 2
@@ -37,7 +37,7 @@ http://qqtv.nl:8080/bada/123456/26312
 #EXTINF:-1 group-title="ESPORTES",ESPN EXTRA
 
 #EXTINF:-1 group-title="ESPORTES",PREMIERE 1
-http://qqtv.nl:8080/bada/123456/26338
+
 #EXTINF:-1 group-title="ESPORTES",PREMIERE 2
 http://canais01.dedicadobrasil.com:8088/live/MgjHnns8hj/yuIOSTnatO/879.ts
 #EXTINF:-1 group-title="ESPORTES",PREMIERE 3
@@ -55,9 +55,9 @@ http://canais01.dedicadobrasil.com:8088/live/zEavhM2MMx/RMVljsHf0F/882.ts
 #EXTINF:-1 group-title="ESPORTES",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="ESPORTES",REAL MADRID TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
 #EXTINF:-1 group-title="ESPORTES",SPORTV 1 SD
-http://qqtv.nl:8080/bada/123456/26385
+
 #EXTINF:-1 group-title="ESPORTES",SPORTV 2 SD
 
 #EXTINF:-1 group-title="ESPORTES",SPORTV 3 SD
@@ -70,13 +70,13 @@ http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8
 http://stmv1.srvstm.com:1935/gospelcartoon/gospelcartoon/playlist.m3u8
 
 #EXTINF:-1 group-title="FILMES E SERIES",Fox
-http://qqtv.nl:8080/bada/123456/26298
+
 #EXTINF:-1 group-title="FILMES E SERIES",Fox Premium
-http://qqtv.nl:8080/bada/123456/26315
+
 #EXTINF:-1 group-title="FILMES E SERIES",TNT
-http://qqtv.nl:8080/bada/123456/26303
+http://192.99.174.110:8093/tnt
 #EXTINF:-1 group-title="FILMES E SERIES",Mega Pix
-http://qqtv.nl:8080/bada/123456/26377
+
 #EXTINF:-1 group-title="FILMES E SERIES",Cine+
 http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 group-title="FILMES E SERIES",Studio Universal
@@ -97,7 +97,7 @@ http://canais01.dedicadobrasil.com:8088/live/AUUiRTy0ad/2Hpby9qSNS/9.ts
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
 
 #EXTINF:-1 group-title="DOCUMENTÁRIOS",Discovery Channel
-http://qqtv.nl:8080/bada/123456/26297
+http://192.99.174.110:8091/dchanel
 #EXTINF:-1 group-title="DOCUMENTÁRIOS",Animal Planet
 http://172.93.99.74:25461/live/Palmeiras2019/River/8.m3u8
 
