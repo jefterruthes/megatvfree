@@ -10,9 +10,9 @@ http://megatvcanais.epizy.com/libertadores
 #EXTINF:-1 group-title="LIVRES",BAND
 https://mj1b2xsspj.singularcdn.net.br/encompass/BandeirantesHD/master_Layer1.m3u8
 #EXTINF:-1 group-title="LIVRES",GLOBO
-http://assistaiptvplay.com/live/5516997705368/997705368/42967.m3u8
+http://192.99.174.110:8081/globo
 #EXTINF:-1 group-title="LIVRES",RECORD
-https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2C91b5d3b827420a1672ca14495409c832%3Bbase64np%3BwRt34eUEhlq-Gp8%21/amlst%3AwRuP-PhPg1uhWhM4/chunklist_b2690048.m3u8?sts=st=1572756035~exp=1572762635~acl=/*~hmac=9bbd3503596990a868e3e8962a90477b8258e7f270ee051216e517b82732ae75
+http://192.99.174.110:8083/record
 #EXTINF:-1 group-title="LIVRES",REDETV
 https://evpp.mm.uol.com.br/redetv2/redetv2/chunklist_w1673041890.m3u8
 #EXTINF:-1 group-title="LIVRES",SBT
@@ -26,12 +26,8 @@ http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 #EXTINF:-1 group-title="ESPORTES",COMBATE
 http://192.99.174.110:8087/combate
-#EXTINF:-1 group-title="ESPORTES",COMBATE 2
-http://62.210.116.21:8081/loadbalance/combate/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxOSA0OjU3OjAwIFBNJmhhc2hfdmFsdWU9eUtEQTB5Q2JVN29RVGNqbGRSZ2hJQT09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 group-title="ESPORTES",Ei A
-https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_2500.m3u8?VRQtpAFXeNzNFtld2tf9yeN1vyU5-lJGp-xRb4rmThesW92zv__GN1EIRJsFcos96xKG&dnt=true&access_token=OZo0Cf114fBAQJMd9p7wp9jvtlEvCwwqMmgMv2s6QgtpdAxjqgLc9CFw0NwxaYM5XbNKoVgdvnC&ref=https://eiplus.com.br/canal/47/no-ar-com-andre-henning/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https&pz=BR
-#EXTINF:-1 group-title="ESPORTES",Ei B
-https://eiplus.com.br/canal/47/no-ar-com-andre-henning/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https&pz=BR
+
 #EXTINF:-1 group-title="ESPORTES",ESPN
 
 #EXTINF:-1 group-title="ESPORTES",ESPN 2
@@ -41,7 +37,7 @@ https://eiplus.com.br/canal/47/no-ar-com-andre-henning/&es=vrzn-ei-ee.cdn.mdstrm
 #EXTINF:-1 group-title="ESPORTES",ESPN EXTRA
 
 #EXTINF:-1 group-title="ESPORTES",PREMIERE 1
-http://62.210.192.35:8081/loadbalance/pfc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxOSA1OjA3OjAwIFBNJmhhc2hfdmFsdWU9eGNVS0JrOEhac2lsRjgzbW5UR0FEdz09JnZhbGlkbWludXRlcz0yMA==
+
 #EXTINF:-1 group-title="ESPORTES",PREMIERE 2
 http://canais01.dedicadobrasil.com:8088/live/MgjHnns8hj/yuIOSTnatO/879.ts
 #EXTINF:-1 group-title="ESPORTES",PREMIERE 3
@@ -74,17 +70,13 @@ http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8
 http://stmv1.srvstm.com:1935/gospelcartoon/gospelcartoon/playlist.m3u8
 
 #EXTINF:-1 group-title="FILMES E SERIES",Fox Premium 1 A
-http://assistaiptvplay.com/live/5516997705368/997705368/54199.m3u8
-#EXTINF:-1 group-title="FILMES E SERIES",Fox Premium 1 B
-http://163.172.10.216:8081/loadbalance/foxpremium/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxOSA1OjAwOjA5IFBNJmhhc2hfdmFsdWU9aDNBSEYzZmNvQVUrancyZFRwZ2N0UT09JnZhbGlkbWludXRlcz0yMA==
-#EXTINF:-1 group-title="FILMES E SERIES",Fox Premium 2 A
-http://assistaiptvplay.com/live/5516997705368/997705368/54197.m3u8
-#EXTINF:-1 group-title="FILMES E SERIES",Fox Premium 2 B
-http://195.154.161.57:8081/loadbalance/foxpremium2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxOSA1OjAyOjUwIFBNJmhhc2hfdmFsdWU9ckU1MlZiRlpBRFRKMlN3UW11MjhsUT09JnZhbGlkbWludXRlcz0yMA==
+
+#EXTINF:-1 group-title="FILMES E SERIES",Fox Premium 2
+
 #EXTINF:-1 group-title="FILMES E SERIES",TNT 1
-http://assistaiptvplay.com/live/5516997705368/997705368/43350.m3u8
+
 #EXTINF:-1 group-title="FILMES E SERIES",TNT 2
-http://assistaiptvplay.com/live/5516997705368/997705368/43145.m3u8
+
 #EXTINF:-1 group-title="FILMES E SERIES",Cine+
 http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 group-title="FILMES E SERIES",Studio Universal
@@ -105,7 +97,7 @@ http://canais01.dedicadobrasil.com:8088/live/AUUiRTy0ad/2Hpby9qSNS/9.ts
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
 
 #EXTINF:-1 group-title="DOCUMENTÁRIOS",Animal Planet
-http://195.154.161.57:8081/loadbalance/animal/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxOSA0OjUzOjQzIFBNJmhhc2hfdmFsdWU9T29GU3dXRUxVUmtkTjJld2lRN3RhQT09JnZhbGlkbWludXRlcz0yMA==
+http://172.93.99.74:25461/live/Palmeiras2019/River/8.m3u8
 
 #EXTINF:-1 group-title="FILMES",Avatar
 http://servidoresdedicado.net/looktvs/Avatar%20Dublado%20Online%20Gr%c3%a1tis.mp4
