@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imagepng.org/wp-content/uploads/2017/08/WhatsApp-icone.png" group-title="MEGATV" ,(99) 98439-1782
 http://0.0.0.0
-#EXTINF:-1 tvg-logo="https://cdn2.iconfinder.com/data/icons/toolbar-signs-4/512/repeat_refresh_arrow_media-512.png" group-title="MEGATV" ,13/11/2019 - 22:15hrs
+#EXTINF:-1 tvg-logo="https://cdn2.iconfinder.com/data/icons/toolbar-signs-4/512/repeat_refresh_arrow_media-512.png" group-title="MEGATV" ,12/11/2019 - 22:20hrs
 http://0.0.0.1
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/copa-libertadores-logo.png" group-title="LIBERTADORES",FINAL - RIVER x FLAMENGO 23/11
@@ -69,14 +69,14 @@ http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8
 #EXTINF:-1 group-title="KID`S",Gospel Cartoon
 http://stmv1.srvstm.com:1935/gospelcartoon/gospelcartoon/playlist.m3u8
 
-#EXTINF:-1 group-title="FILMES E SERIES",Fox Premium 1 A
-
-#EXTINF:-1 group-title="FILMES E SERIES",Fox Premium 2
-
-#EXTINF:-1 group-title="FILMES E SERIES",TNT 1
-
-#EXTINF:-1 group-title="FILMES E SERIES",TNT 2
-
+#EXTINF:-1 group-title="FILMES E SERIES",Fox
+http://qqtv.nl:8080/bada/123456/26298
+#EXTINF:-1 group-title="FILMES E SERIES",Fox Premium
+http://qqtv.nl:8080/bada/123456/26315
+#EXTINF:-1 group-title="FILMES E SERIES",TNT
+http://qqtv.nl:8080/bada/123456/26303
+#EXTINF:-1 group-title="FILMES E SERIES",Mega Pix
+http://qqtv.nl:8080/bada/123456/26377
 #EXTINF:-1 group-title="FILMES E SERIES",Cine+
 http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 group-title="FILMES E SERIES",Studio Universal
@@ -96,6 +96,8 @@ http://canais01.dedicadobrasil.com:8088/live/AUUiRTy0ad/2Hpby9qSNS/9.ts
 #EXTINF:-1 group-title="FILMES E SERIES",CINE SKY
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
 
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",Discovery Channel
+http://qqtv.nl:8080/bada/123456/26297
 #EXTINF:-1 group-title="DOCUMENTÁRIOS",Animal Planet
 http://172.93.99.74:25461/live/Palmeiras2019/River/8.m3u8
 
