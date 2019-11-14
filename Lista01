@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imagepng.org/wp-content/uploads/2017/08/WhatsApp-icone.png" group-title="MEGATV" ,(99) 98439-1782
 https://wa.me/+5599984391782
-#EXTINF:-1 tvg-logo="https://cdn2.iconfinder.com/data/icons/toolbar-signs-4/512/repeat_refresh_arrow_media-512.png" group-title="MEGATV" ,14/11/2019 - 15:00hrs
+#EXTINF:-1 tvg-logo="https://cdn2.iconfinder.com/data/icons/toolbar-signs-4/512/repeat_refresh_arrow_media-512.png" group-title="MEGATV" ,14/11/2019 - 18:00hrs
 http://www.megatvcanais.epizy.com/lista
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/copa-libertadores-logo.png" group-title="LIBERTADORES",FINAL - RIVER x FLAMENGO 23/11
@@ -119,6 +119,87 @@ http://servidoresdedicado.net/looktvs/Bumblebee%20Dublado.mp4
 http://servidoresdedicado.net/looktvs/Deadpool%202%20Dublado%20Online%20Gr%c3%a1tis.mp4
 #EXTINF:-1 group-title="FILMES",Mulher Maravilha
 http://www.zepirata.org/looktvs/mulher-maravilha.mp4
+
+#EXTINF:-1 group-title="COLEÇÃO MARVEL",Vingadores Ultimato
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/VNGDRSULTMTO.mp4
+#EXTINF:-1 group-title="COLEÇÃO MARVEL",Vingadores Guerra Infinita
+http://cdnfe2.azureedge.net/RCFServer4/ondemand/VNGDRSGRAINFNT.mp4
+#EXTINF:-1 group-title="COLEÇÃO MARVEL",Vingadores a Era de Ultron
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/VNGDRSEDURON.mp4
+#EXTINF:-1 group-title="COLEÇÃO MARVEL",Vingadores
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/OSVGDRS.mp4
+#EXTINF:-1 group-title="COLEÇÃO MARVEL",Capitão América o Primeiro Vingador
+http://cdnfe3.azureedge.net/RCFServer2/ondemand/CAPTAMRC1.mp4
+#EXTINF:-1 group-title="COLEÇÃO MARVEL",Capitão América o Soldado Invernal
+http://mrq1.azureedge.net/movies/capitaoamericaosoldadoinvernal-dub-1080p.mp4
+#EXTINF:-1 group-title="COLEÇÃO MARVEL",Capitão América Guerra Civil
+http://mrq1.azureedge.net/movies/guerracivil-dub-720p.mp4
+#EXTINF:-1 group-title="COLEÇÃO MARVEL",Thor
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/THOR.mp4
+#EXTINF:-1 group-title="COLEÇÃO MARVEL",Thor O Mundo Sombrio
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/THOROMNDSBR.mp4?attachment=true
+#EXTINF:-1 group-title="COLEÇÃO MARVEL",Thor Ragnarok
+http://cdnfe2.azureedge.net/RCFServer4/ondemand/THORAGORK.mp4
+#EXTINF:-1 group-title="COLEÇÃO MARVEL",Pantera Negra
+http://cdnfe2.azureedge.net/RCFServer4/ondemand/PNTRNGR.mp4
+#EXTINF:-1 group-title="COLEÇÃO MARVEL",HOMEN DE FERRO
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/HMNDEFRO01.mp4?attachment=true
+#EXTINF:-1 group-title="COLEÇÃO MARVEL",HOMEM DE FERRO 2
+http://mrq1.azureedge.net/movies/homemdeferro2-dub-1080p.mp4
+#EXTINF:-1 group-title="COLEÇÃO MARVEL",HOMEM DE FERRO 3
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/HMNDEFRO03.mp4?attachment=true
+#EXTINF:-1 group-title="COLEÇÃO MARVEL",DOUTOR ESTRANHO
+http://raull3.azureedge.net/RCFServer3/ondemand/DRESTNHO.mp4?attachment=true
+#EXTINF:-1 group-title="COLEÇÃO MARVEL",GUARDIÕES DA GALAXIA
+http://raull3.azureedge.net/RCFServer2/ondemand/GRDOESDGLXIA.mp4?attachment=true
+#EXTINF:-1 group-title="COLEÇÃO MARVEL",GUARDIÕES DA GALAXIA 2
+http://raull2.azureedge.net/RCFServer4/ondemand/GRDOESDGLXIAVL2.mp4?attachment=true
+#EXTINF:-1 group-title="COLEÇÃO MARVEL",HOMEM FORMIGA
+http://raull3.azureedge.net/RCFServer2/ondemand/HMNFRMGA.mp4?attachment=true
+#EXTINF:-1 group-title="COLEÇÃO MARVEL",HOMEM FORMIGA E VESPA
+http://raull2.azureedge.net/RCFServer4/ondemand/HMNFRMGEVSPA.mp4?attachment=true
+#EXTINF:-1 group-title="COLEÇÃO MARVEL",HOMEM ARANHA DE VOLTA AO LAR
+http://raull2.azureedge.net/RCFServer4/ondemand/HOMARNHDVLTALR.mp4?attachment=true
+#EXTINF:-1 group-title="COLEÇÃO MARVEL",DEADPOOL
+http://raull3.azureedge.net/RCFServer2/ondemand/DEADP.mp4?attachment=true
+#EXTINF:-1 group-title="COLEÇÃO MARVEL",DEADPOOL 2
+http://raull2.azureedge.net/RCFServer4/ondemand/DEADP2.mp4?attachment=true
+#EXTINF:-1 group-title="COLEÇÃO MARVEL",HOMEM ARANHA (2002)
+http://raull3.azureedge.net/RCFServer1/ondemand/HMNARNH01.mp4?attachment=true
+#EXTINF:-1 group-title="COLEÇÃO MARVEL",HOMEM ARANHA 2 (2004)
+http://raull3.azureedge.net/RCFServer1/ondemand/HMNARNH02.mp4?attachment=true
+#EXTINF:-1 group-title="COLEÇÃO MARVEL",HOMEM ARANHA 3 (2007) 
+http://raull3.azureedge.net/RCFServer1/ondemand/HMNARNH03.mp4?attachment=true
+#EXTINF:-1 group-title="COLEÇÃO MARVEL",O ESPETACULAR HOMEM ARANHA
+http://raull3.azureedge.net/RCFServer1/ondemand/OESPTCLHMNARNH01.mp4?attachment=true
+#EXTINF:-1 group-title="COLEÇÃO MARVEL",O ESPETACULAR HOMEM ARANHA 2 A AMEAÇA DE ELECTRO
+http://raull3.azureedge.net/RCFServer1/ondemand/OESPTCLHMNARNH02.mp4?attachment=true
+#EXTINF:-1 group-title="COLEÇÃO MARVEL",MOTOQUEIRO FANTASMA
+http://raull3.azureedge.net/RCFServer1/ondemand/MTQRFNTSM01.mp4?attachment=true
+#EXTINF:-1 group-title="COLEÇÃO MARVEL",MOTOQUEIRO FANTASMA ESPÍRITO DA VINGANÇA
+http://raull3.azureedge.net/RCFServer1/ondemand/MTQRFNTSM02.mp4?attachment=true
+#EXTINF:-1 group-title="COLEÇÃO MARVEL",X-MEN O FILME
+http://raull3.azureedge.net/RCFServer3/ondemand/XMEN01.mp4?attachment=true
+#EXTINF:-1 group-title="COLEÇÃO MARVEL",X-MEN 2
+http://raull3.azureedge.net/RCFServer3/ondemand/XMEN02.mp4?attachment=true,
+#EXTINF:-1 group-title="COLEÇÃO MARVEL",X-MEN 3 O CONFRONTO FINAL
+http://raull3.azureedge.net/RCFServer3/ondemand/XMEN03.mp4?attachment=true
+#EXTINF:-1 group-title="COLEÇÃO MARVEL",X-MEN PRIMEIRA CLASSE
+http://raull3.azureedge.net/RCFServer3/ondemand/XMEN05.mp4?attachment=true
+#EXTINF:-1 group-title="COLEÇÃO MARVEL",X-MEN DIAS DE UM FUTURO ESQUECIDO
+http://raull3.azureedge.net/RCFServer3/ondemand/XMEN07.mp4?attachment=true
+#EXTINF:-1 group-title="COLEÇÃO MARVEL",X-MEN APOCALIPSE
+http://raull3.azureedge.net/RCFServer3/ondemand/XMENAPCLPSE.mp4
+#EXTINF:-1 group-title="COLEÇÃO MARVEL",X-MEN ORIGENS WOLVERINE
+http://raull3.azureedge.net/RCFServer3/ondemand/XMEN04.mp4
+#EXTINF:-1 group-title="COLEÇÃO MARVEL",WOLVERINE IMORTAL
+http://raull3.azureedge.net/RCFServer3/ondemand/XMEN06.mp4
+#EXTINF:-1 group-title="COLEÇÃO MARVEL",LOGAN
+http://raull2.azureedge.net/RCFServer4/ondemand/LOGN.mp4?attachment=true
+#EXTINF:-1 group-title="COLEÇÃO MARVEL",Hulk 2003
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/HULK.mp4?attachment=true,
+#EXTINF:-1 group-title="COLEÇÃO MARVEL",O Incrivel Hulk
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/OINCVLHLK.mp4?attachment=true
 
 #EXTINF:-1 group-title="X-ADULTOS",X-JASMIM TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8?EDSONSOUSALIST
