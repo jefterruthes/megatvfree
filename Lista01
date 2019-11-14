@@ -9,7 +9,9 @@ https://dl.dropboxusercontent.com/s/jg4g01ehlr9az8a/manutencao.mp4?dl=0
 
 #EXTINF:-1 group-title="LIVRES",BAND
 https://mj1b2xsspj.singularcdn.net.br/encompass/BandeirantesHD/master_Layer1.m3u8
-#EXTINF:-1 group-title="LIVRES",GLOBO
+#EXTINF:-1 group-title="LIVRES",GLOBO RIO HD
+http://mytvip.xyz/live/112233/112233/63099.m3u8
+#EXTINF:-1 group-title="LIVRES",GLOBO RIO SD
 http://192.99.174.110:8081/globo
 #EXTINF:-1 group-title="LIVRES",RECORD
 http://192.99.174.110:8083/record
@@ -25,9 +27,13 @@ http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 group-title="ESPORTES",ALL SPORTS 3
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 #EXTINF:-1 group-title="ESPORTES",COMBATE
-https://dl.dropboxusercontent.com/s/jg4g01ehlr9az8a/manutencao.mp4?dl=0
+http://vipeiptv.com:25461/thiago/thiago/12913
+#EXTINF:-1 group-title="ESPORTES",DAZN 1 HD
+http://vipeiptv.com:25461/thiago/thiago/11996
 #EXTINF:-1 group-title="ESPORTES",EI
-https://dl.dropboxusercontent.com/s/jg4g01ehlr9az8a/manutencao.mp4?dl=0
+http://vipeiptv.com:25461/thiago/thiago/12954
+#EXTINF:-1 group-title="ESPORTES",EI Plus
+http://vipeiptv.com:25461/thiago/thiago/2114
 #EXTINF:-1 group-title="ESPORTES",ESPN
 https://dl.dropboxusercontent.com/s/jg4g01ehlr9az8a/manutencao.mp4?dl=0
 #EXTINF:-1 group-title="ESPORTES",ESPN 2
