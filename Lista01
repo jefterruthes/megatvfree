@@ -162,6 +162,10 @@ http://raull3.azureedge.net/RCFServer2/ondemand/HMNFRMGA.mp4?attachment=true
 http://raull2.azureedge.net/RCFServer4/ondemand/HMNFRMGEVSPA.mp4?attachment=true
 #EXTINF:-1 group-title="COLEÇÃO MARVEL",HOMEM ARANHA DE VOLTA AO LAR
 http://raull2.azureedge.net/RCFServer4/ondemand/HOMARNHDVLTALR.mp4?attachment=true
+#EXTINF:-1 group-title="COLEÇÃO MARVEL",HOMEM ARANHA LONGE DE CASA
+http://mrq1.azureedge.net/movies/homemaranhalongedecasats-dub-720p.mp4
+#EXTINF:-1 group-title="COLEÇÃO MARVEL",CAPITÃ MARVEL
+http://mrq1.azureedge.net/movies/capitamarvel-dub-720p.mp4
 #EXTINF:-1 group-title="COLEÇÃO MARVEL",DEADPOOL
 http://raull3.azureedge.net/RCFServer2/ondemand/DEADP.mp4?attachment=true
 #EXTINF:-1 group-title="COLEÇÃO MARVEL",DEADPOOL 2
